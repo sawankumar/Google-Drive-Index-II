@@ -28,3 +28,7 @@ Light Theme
 
 Dark Theme
 ![Dark Theme](https://raw.githubusercontent.com/sawankumar/GoIndex-Drive/master/screenshot/material-dark.png)
+
+## Credits :heart:‍ 
+
+* [Kulokenci](https://github.com/kulokenci/goindex-drive)
