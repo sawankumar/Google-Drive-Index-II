@@ -1,14 +1,14 @@
 var authConfig = {
   "siteName": "GoIndex - Drive", // Site Name
-  "version" : "2.4", // version
+  "version" : "master", // version
   "basic_auth": false, // change to Basic authentication
   "user": "",
   "pass": "",
   "theme" : "material", // material  classic
-  "main_color": "light-green",
-  "accent_color": "green",
+  "main_color": "teal",
+  "accent_color": "teal",
   "dark_theme": false, //make sure you set main color
-  "search": false, // dont use, not wokrk :(
+  "search": false, // don't use, not working :(
   "client_id": "202264815644.apps.googleusercontent.com",
   "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
   "refresh_token": "", // Authorization token
@@ -23,7 +23,7 @@ var html = `
     <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
     <title>${authConfig.siteName}</title>
     <script>var main_color = "${authConfig.main_color}";var accent_color = "${authConfig.accent_color}";var dark = ${authConfig.dark_theme};var search = ${authConfig.search};</script>
-    <script src="//cdn.jsdelivr.net/combine/gh/jquery/jquery@3.2/dist/jquery.min.js,gh/kulokenci/goindex-drive@${authConfig.version}/themes/${authConfig.theme}/app.js"></script>
+    <script src="//cdn.jsdelivr.net/combine/gh/jquery/jquery@3.2/dist/jquery.min.js,gh/sawankumar/GoIndex-Drive@${authConfig.version}/themes/${authConfig.theme}/app.js"></script>
 </head>
 <body>
 </body>
