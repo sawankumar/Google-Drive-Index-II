@@ -2,12 +2,12 @@ var authConfig = {
   "siteName": "GoIndex - Drive", // Site Name
   "version" : "master", // version
   "basic_auth": false, // change to Basic authentication
-  "user": "",
-  "pass": "",
+  "user": "username",
+  "pass": "password",
   "theme" : "material", // material  classic
   "main_color": "teal",
   "accent_color": "teal",
-  "dark_theme": false, //make sure you set main color
+  "dark_theme": true, //make sure you set main color
   "search": false, // don't use, not working :(
   "client_id": "202264815644.apps.googleusercontent.com",
   "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
