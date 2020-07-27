@@ -4,9 +4,9 @@ var authConfig = {
   "basic_auth": false, // change to Basic authentication
   "user": "username",
   "pass": "password",
-  "theme" : "material", // material  classic
-  "main_color": "teal",
-  "accent_color": "teal",
+  "theme" : "material", // material | classic
+  "main_color": "teal", // red | pink | purple | deep-purple | indigo | blue | light-blue | cyan | teal | green | light-green | lime yellow | amber orange | deep-orange | brown | grey | blue-grey
+  "accent_color": "teal", // red | pink | purple | deep-purple | indigo | blue | light-blue | cyan | teal | green | light-green | lime | yellow | amber | orange | deep-orange
   "dark_theme": true, //make sure you set main color
   "search": false, // don't use, not working :(
   "client_id": "202264815644.apps.googleusercontent.com",
