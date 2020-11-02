@@ -1,4 +1,4 @@
-<h1 align="center">GoIndex-Drive 🔥</h1> 
+<h1 align="center">Google-Drive-Index-II 🔥</h1> 
 
 <p align="center">
 <a href="https://github.com/sawankumar"><img alt="author" src="https://img.shields.io/badge/author-Sawan%20Kumar-red"/></a>
@@ -24,10 +24,10 @@
 
 #### Screenshot
 Light Theme
-![Light Theme](https://raw.githubusercontent.com/sawankumar/GoIndex-Drive/master/screenshot/material-light.png)
+![Light Theme](https://raw.githubusercontent.com/sawankumar/Google-Drive-Index-II/master/screenshot/material-light.png)
 
 Dark Theme
-![Dark Theme](https://raw.githubusercontent.com/sawankumar/GoIndex-Drive/master/screenshot/material-dark.png)
+![Dark Theme](https://raw.githubusercontent.com/sawankumar/Google-Drive-Index-II/master/screenshot/material-dark.png)
 
 ## Credits :heart:‍ 
 
