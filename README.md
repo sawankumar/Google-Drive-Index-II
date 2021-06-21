@@ -1,10 +1,5 @@
 <h1 align="center">Google-Drive-Index-II 🔥</h1> 
 
-<p align="center">
-<a href="https://github.com/sawankumar"><img alt="author" src="https://img.shields.io/badge/author-Sawan%20Kumar-red"/></a>
-<a href="https://github.com/ellerbrock/open-source-badges/"><img alt="author" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>
-</p>
-
 <hr>
 
 
@@ -28,7 +23,3 @@ Light Theme
 
 Dark Theme
 ![Dark Theme](https://raw.githubusercontent.com/sawankumar/Google-Drive-Index-II/master/screenshot/material-dark.png)
-
-## Credits :heart:‍ 
-
-* [Kulokenci](https://github.com/kulokenci/goindex-drive)
