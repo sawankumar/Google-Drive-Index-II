@@ -8,7 +8,7 @@ var authConfig = {
   "main_color": "teal", // red | pink | purple | deep-purple | indigo | blue | light-blue | cyan | teal | green | light-green | lime yellow | amber orange | deep-orange | brown | grey | blue-grey
   "accent_color": "teal", // red | pink | purple | deep-purple | indigo | blue | light-blue | cyan | teal | green | light-green | lime | yellow | amber | orange | deep-orange
   "dark_theme": true, //make sure you set main color
-  "search": false, // don't use, not working :(
+  "search": true,
   "client_id": "202264815644.apps.googleusercontent.com",
   "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
   "refresh_token": "", // Authorization token
